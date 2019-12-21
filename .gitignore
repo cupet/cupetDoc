@@ -1,0 +1,11 @@
+.idea/
+/.idea/inspectionProfiles/*
+/.idea/sonarlint/*
+/.idea/
+!/.idea/inspectionProfiles/profiles_settings.xml
+!/.idea/$PRODUCT_WORKSPACE_FILE$
+!/.idea/vcs.xml
+!/.idea/workspace.xml
+!/.idea/misc.xml
+!/.idea/modules.xml
+!/qcjdoc.iml
